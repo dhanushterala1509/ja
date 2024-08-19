@@ -75,13 +75,13 @@ class Test {
 
         //comparingCollections
 
-        if(obj.comparingCollections(al,set)) System.out.println("the set and arraylist are equal");
+        if(obj.comparingCollections(al,set)) System.out.println("th set and arraylist are equal");
         else System.out.println("Collections they ae not equal");
 
 
-        //reverse of Collection
+        
 
-        System.out.println(obj.revrse(al));
+       
 
 //Arrays as List Conversion
         List<Integer> al1=Arrays.asList(1,3,5,7);
