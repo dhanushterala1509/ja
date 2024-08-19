@@ -73,6 +73,9 @@ class Test {
 
         System.out.println(obj.collectionsizeMap(mp));
 
+        System.out.println(obj.collectionsizeMap(mp));
+
+        
         //comparingCollections
 
         if(obj.comparingCollections(al,set)) System.out.println("the set and arraylist are equal");
