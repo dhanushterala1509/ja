@@ -81,7 +81,7 @@ class Test {
 
         //reverse of Collection
 
-        System.out.println(obj.revrse(al));
+        System.out.println(obj.revrse(al)+"please");
 
 //Arrays as List Conversion
         List<Integer> al1=Arrays.asList(1,3,5,7);
